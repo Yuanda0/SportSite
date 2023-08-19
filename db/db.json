@@ -1,0 +1,366 @@
+{
+  "datas": [
+    {
+      "title": "Experienced Team",
+      "desc": "We work with expert coaches and professional athletes. With our experienced team, we focus on delivering the best results for you."
+    },
+    {
+      "title": "Individual Approach",
+      "desc": "Everyone has different goals and requirements. We provide personalized training and nutrition plans to focus on your individual objectives."
+    },
+    {
+      "title": "Flexible Programs",
+      "desc": "For those with busy lifestyles, we offer flexible hours and remote access options. We tailor our programs to suit your lifestyle."
+    },
+    {
+      "title": "Motivation and Support",
+      "desc": "We offer not only physical but also motivational and psychological support. We understand that sports have an impact on both physical and mental well-being."
+    },
+    {
+      "title": "References and Success Stories",
+      "desc": "By showcasing previous customers' success stories and references, we demonstrate why you should choose us."
+    },
+    {
+      "title": "Social Activities and Collaborations",
+      "desc": "We emphasize the social and fun aspect of sports through events, tournaments, and collaborations"
+    },
+    {
+      "title": "Free Trial Sessions",
+      "desc": " As an answer to Why choose us?, we offer you free trial sessions. You'll have the opportunity to decide by experiencing it yourself."
+    },
+    {
+      "title": "Health and Safety Priority",
+      "desc": "Your health and safety are our top priorities. We ensure that you engage in sports within an environment that adheres to hygiene standards."
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "image": "https://m.media-amazon.com/images/I/61v9Ijn8PaL._AC_UL400_.jpg",
+      "product": "VEICK Adjustable Dumbbell, 25/55 lb Dumbbell for Men and Women, Fast Adjust Weight by Turning Handle, Black Dumbbell with Tray Suitable for Home Gym Full Body Workout Fitness",
+      "price": 99.99
+    },
+    {
+      "id": 2,
+      "image": "https://m.media-amazon.com/images/I/81EeaBAdbiL._AC_UL400_.jpg",
+      "product": "Amazon Basics Rubber Encased Exercise & Fitness Hex Dumbbell, Hand Weight For Strenght Training",
+      "price": 19.62
+    },
+    {
+      "id": 3,
+      "image": "https://m.media-amazon.com/images/I/71Q9b0raqUL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "product": "Yes4All Cast Iron Weights Adjustable Dumbbell Sets for Home Gym with Bars, Plates, Collars",
+      "price": 65.99
+    },
+    {
+      "id": 4,
+      "image": "https://m.media-amazon.com/images/I/71xRkaKl2TL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "product": "FEIERDUN Adjustable Dumbbells, 20/30/40/50/70/90lbs Free Weight Set with Connector, 4 in1 Dumbbells Set Used as Barbell, Kettlebells, Push up Stand, Fitness Exercises for Home Gym Suitable Men/Women",
+      "price": 89.99
+    },
+    {
+      "id": 5,
+      "image": "https://m.media-amazon.com/images/I/61QBrxlmrnL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "product": "BIERDORF Adjustable Weights Dumbbells Set, Non-Rolling Adjustable Dumbbell Set, Octagonal, Home Gym Fitness Free Weight Set, 44/66 Lbs, Workout With Connecting Rod For Men Women",
+      "price": 84.99
+    },
+    {
+      "id": 6,
+      "image": "https://m.media-amazon.com/images/I/71geB5WrmEL._AC_SX679_.jpg",
+      "product": "VEICK Resistance Bands for Working Out, Exercise Bands, Workout Bands, Resistance Bands Set with Handles for Men Women, Weights for Strength Training Equipment at Home",
+      "price": 19.73
+    },
+    {
+      "id": 7,
+      "image": "https://m.media-amazon.com/images/I/71UiKruLBjL._AC_UL400_.jpg",
+      "product": "WNOEY Cable Machine Accessories for Home Gym, Triceps Pull Down Attachment, Cable Attachments for Gym, LAT Pull Down Attachment Weight Fitness",
+      "price": 85.99
+    },
+    {
+      "id": 8,
+      "image": "https://m.media-amazon.com/images/I/71Lx6yV3BpL._AC_UL400_.jpg",
+      "product": "𝟏𝐥𝐛 𝐖𝐞𝐢𝐠𝐡𝐭𝐞𝐝 𝐉𝐮𝐦𝐩 𝐑𝐨𝐩𝐞 𝐟𝐨𝐫 𝐁𝐨𝐱𝐢𝐧𝐠-Speed Skipping Rope with Adjustable 2pcs 6.5mm Heavy PVC Ropes and Aluminum Handle for Men Women Fitness Cardio Crossfit Workout Training Exercise Free Carry Bag",
+      "price": 19.98
+    },
+    {
+      "id": 9,
+      "image": "https://m.media-amazon.com/images/I/6128RrN1wsL._AC_UL400_.jpg",
+      "product": "100% Creatine Monohydrate - 0.661 lbs (Pot) - Biotech",
+      "price": 71.99
+    },
+    {
+      "id": 10,
+      "image": "https://m.media-amazon.com/images/I/81YK1XCtcNL._AC_UL400_.jpg",
+      "product": "Nitraflex Black, Extreme Pre-Training Formula, 40 Servings (Pineapple Orange Mango)",
+      "price": 44.99
+    },
+    {
+      "id": 11,
+      "image": "https://m.media-amazon.com/images/I/713-ewoCFoL._AC_SX679_.jpg",
+      "product": "Spring Valley, Collagen Pills, 2,500 mg + C Tablets, Highly Absorbable Collagen Supplements, Dietary Supplement, 90 Count + 7 Day Pill Organizer Included (Pack of 1)",
+      "price": 21.99
+    },
+    {
+      "id": 12,
+      "image": "https://m.media-amazon.com/images/I/61Zi5y22DOL._AC_UL400_.jpg",
+      "product": "GNC AMP Wheybolic™ - Girl Scout Coconut Caramel",
+      "price": 69.99
+    },
+    {
+      "id": 13,
+      "image": "https://m.media-amazon.com/images/I/51xiMk9vw9L._AC_.jpg",
+      "product": "Amway Nutriliteâ® All Plant Protein 1Kg",
+      "price": 64.9
+    },
+    {
+      "id": 14,
+      "image": "https://m.media-amazon.com/images/I/51D0ksD7laL._SX300_SY300_QL70_FMwebp_.jpg",
+      "product": "Fairlife High Protein Nutrition Shake + Core Power Sampler Set (6-Pack)",
+      "price": 29.95
+    },
+    {
+      "id": 15,
+      "image": "https://m.media-amazon.com/images/I/515+wMN6k-L._SY300_SX300_.jpg",
+      "product": "Fairlife Core Power Elite 42g High Protein Milk Shakes Variety Pack - Ready to Drink for Workout Recovery, 14 Fl Oz (8 - Pack)",
+      "price": 46.95
+    },
+    {
+      "id": 16,
+      "image": "https://m.media-amazon.com/images/I/61+dqm0mjcL._AC_UY218_.jpg",
+      "product": "FIERRG Bicycle, Variable Speed Folding Shock-Absorbing Bicycle, High Load-Bearing Shock Absorber for The Jungle Trails, The Snow, The Beac",
+      "price": 299.99
+    },
+    {
+      "id": 17,
+      "image": "https://m.media-amazon.com/images/I/81phtmUriTS._AC_SX679_.jpg",
+      "product": "Mongoose Flatrock Youth/Adult Hardtail Mountain Bike, 24 to 29-Inch Wheels, 21-Speed Twist Shifters, 14.5 to 18-Inch Lightweight Aluminum Frame",
+      "price": 187.96
+    },
+    {
+      "id": 18,
+      "image": "https://m.media-amazon.com/images/I/81-aByA2CzL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "product": "Dynacraft Silver Canyon 26 Mountain Bike",
+      "price": 399.99
+    },
+    {
+      "id": 19,
+      "image": "https://m.media-amazon.com/images/I/61bYX+D24GL._AC_UL400_.jpg",
+      "product": "Keppi Adjustable Weight Bench-Foldable Workout Bench Press for Full Body Strength Training, Incline Decline Bench with Fast Folding - 2023 Version",
+      "price": 199.99
+    },
+    {
+      "id": 20,
+      "image": "https://m.media-amazon.com/images/I/61IyGJk9cRL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "product": "AboveGenius 45LB Barbell Weight Set",
+      "price": 79.99
+    }
+  ],
+  "blogs": [
+    {
+      "title": "The Importance of Cardio Exercises",
+      "name": "Ali Yilmaz",
+      "blog": "Incorporating cardio exercises while working out can enhance endurance and support heart health. Cardio is essential to maintain overall body fitness."
+    },
+    {
+      "title": "Flexibility and Sports Performance",
+      "name": "Ayse Demir",
+      "blog": "Flexibility exercises can improve sports performance. Flexible muscles carry a lower risk of injury and can increase the range of motion."
+    },
+    {
+      "title": "Secrets of Muscle Building",
+      "name": "Mehmet Arslan",
+      "blog": "To build muscles, regular weightlifting is necessary. However, maintaining proper form is equally important as the weight itself."
+    },
+    {
+      "title": "The Role of Nutrition in Sports",
+      "name": "Emily Smith",
+      "blog": "Nutrition plays a vital role in sports performance. Properly fueling your body with the right nutrients can enhance energy levels and aid recovery."
+    },
+    {
+      "title": "Staying Hydrated During Workouts",
+      "name": "John Anderson",
+      "blog": "Hydration is crucial during workouts. Dehydration can lead to decreased performance and negatively impact overall health."
+    },
+    {
+      "title": "The Benefits of CrossFit Training",
+      "name": "Sophia Johnson",
+      "blog": "CrossFit offers a high-intensity workout that combines different exercises. It can improve strength, endurance, and overall fitness."
+    },
+    {
+      "title": "Setting Realistic Fitness Goals",
+      "name": "David Williams",
+      "blog": "Setting achievable fitness goals is essential for long-term success. Realistic goals can provide motivation and a sense of accomplishment."
+    },
+    {
+      "title": "The Importance of Warm-Up Exercises",
+      "name": "Emma Brown",
+      "blog": "Warming up before exercising helps prevent injuries. Dynamic warm-up routines can increase blood flow and prepare muscles for activity."
+    },
+    {
+      "title": "Recovery Strategies for Athletes",
+      "name": "Michael Davis",
+      "blog": "Proper recovery is vital for athletes. Techniques like stretching, foam rolling, and adequate sleep can aid in muscle repair and growth."
+    },
+    {
+      "title": "Benefits of Outdoor Running",
+      "name": "Olivia White",
+      "blog": "Running outdoors offers fresh air and varying terrain. It can add excitement to your workouts and provide mental relaxation."
+    },
+    {
+      "title": "Functional Training for Everyday Fitness",
+      "name": "William Taylor",
+      "blog": "Functional training focuses on movements used in daily life. It can enhance strength, balance, and coordination for practical tasks."
+    },
+    {
+      "title": "Importance of Rest Days",
+      "name": "Sophie Martinez",
+      "blog": "Rest days are crucial for recovery. They allow muscles to repair and prevent overtraining, leading to better overall results."
+    },
+    {
+      "title": "Incorporating Yoga into Your Routine",
+      "name": "Ethan Walker",
+      "blog": "Yoga offers both physical and mental benefits. It can improve flexibility, balance, and reduce stress for a well-rounded fitness routine."
+    },
+    {
+      "title": "Choosing the Right Athletic Shoes",
+      "name": "Natalie Clark",
+      "blog": "Selecting proper athletic shoes is essential to prevent injuries. Different sports require different types of footwear for optimal performance."
+    },
+    {
+      "title": "Benefits of High-Intensity Interval Training (HIIT)",
+      "name": "Lucas Harris",
+      "blog": "HIIT workouts involve short bursts of intense exercise followed by rest periods. It can boost metabolism and improve cardiovascular fitness."
+    },
+    {
+      "title": "The Role of Core Strength in Athletics",
+      "name": "Isabella Lee",
+      "blog": "A strong core is essential for sports performance. It provides stability, balance, and power for various athletic movements."
+    },
+    {
+      "title": "Importance of Proper Posture",
+      "name": "Daniel Wilson",
+      "blog": "Maintaining good posture is vital during workouts. Proper alignment supports muscle engagement and prevents strain or injury."
+    },
+    {
+      "title": "Benefits of Swimming for Fitness",
+      "name": "Grace Adams",
+      "blog": "Swimming is a low-impact exercise that works the whole body. It can improve cardiovascular fitness, endurance, and muscle strength."
+    },
+    {
+      "title": "Nutrition Tips for Pre-Workout Fueling",
+      "name": "Ryan Miller",
+      "blog": "Eating the right foods before a workout can enhance performance. Carbohydrates and protein provide energy and support muscle function."
+    },
+    {
+      "title": "Mind-Body Connection in Exercise",
+      "name": "Ava Turner",
+      "blog": "The mind-body connection is important in fitness. Practicing mindfulness during workouts can improve focus and overall well-being."
+    },
+    {
+      "title": "Overcoming Plateaus in Fitness",
+      "name": "Benjamin Carter",
+      "blog": "Plateaus are common in fitness progress. Varying workouts, adjusting intensity, and setting new goals can help break through them."
+    }
+  ],
+  "yourBlogs": [
+    {
+      "title": "asdadadasadasd",
+      "blog": "asdasdasdassadsadad",
+      "id": 9235231789341
+    },
+    {
+      "title": "aojdauhdsaıouh",
+      "blog": "ıuhsdfıoudbfıdsaf\n",
+      "id": 8240679070061
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "title": "What are the benefits of regular jogging?",
+      "answers": [
+        {
+          "id": 1,
+          "user": {
+            "id": 1,
+            "name": "John"
+          },
+          "text": "Regular jogging improves cardiovascular health and boosts stamina."
+        },
+        {
+          "id": 2,
+          "user": {
+            "id": 2,
+            "name": "Alice"
+          },
+          "text": "Jogging also helps with weight management and reduces stress."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "How can I improve my basketball shooting skills?",
+      "answers": [
+        {
+          "id": 1,
+          "user": {
+            "id": 3,
+            "name": "Mike"
+          },
+          "text": "Practice your shooting technique daily and focus on your form."
+        },
+        {
+          "id": 2,
+          "user": {
+            "id": 4,
+            "name": "Sarah"
+          },
+          "text": "Work on your footwork and practice shooting from different angles."
+        }
+      ]
+    }
+  ],
+  "yourQuestions": [
+    {
+      "id": 1,
+      "title": "What's the best stretching routine before a workout?",
+      "answers": [
+        {
+          "id": 1,
+          "user": {
+            "id": 5,
+            "name": "Emily"
+          },
+          "text": "Dynamic stretching is great before a workout to warm up your muscles."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Is swimming effective for weight loss?",
+      "answers": [
+        {
+          "id": 1,
+          "user": {
+            "id": 6,
+            "name": "Daniel"
+          },
+          "text": "Yes, swimming is a low-impact full-body exercise that can aid in weight loss."
+        },
+        {
+          "id": 2,
+          "user": {
+            "id": 7,
+            "name": "Olivia"
+          },
+          "text": "Combining swimming with a balanced diet can help you achieve your weight loss goals."
+        }
+      ]
+    },
+    {
+      "title": "xD",
+      "answers": [],
+      "id": 3
+    }
+  ]
+}
